@@ -1,0 +1,231 @@
+2025-07-24 11:07:41,475 - INFO - Received input: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+2025-07-24 11:07:41,475 - INFO - Preprocessed input: [0.0, 117.0, 72.0, 29.0, 125.0, 0.0, 0.0, 0.0, 1, 1, 1, 1]
+2025-07-24 11:07:41,523 - INFO - Prediction: label=0, probability=0.10645458847284317
+2025-07-24 11:08:32,048 - INFO - Received input: [11.0, 111.0, 111.0, 11.0, 11.0, 111.0, 11.0, 11.0]
+2025-07-24 11:08:32,048 - INFO - Preprocessed input: [11.0, 111.0, 111.0, 11.0, 11.0, 111.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-24 11:08:32,052 - INFO - Prediction: label=0, probability=0.18175607919692993
+2025-07-24 11:08:34,290 - INFO - Received input: [11.0, 111.0, 111.0, 11.0, 11.0, 111.0, 11.0, 11.0]
+2025-07-24 11:08:34,290 - INFO - Preprocessed input: [11.0, 111.0, 111.0, 11.0, 11.0, 111.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-24 11:08:34,321 - INFO - Prediction: label=0, probability=0.18175607919692993
+2025-07-24 11:08:42,859 - INFO - Received input: [11222.0, 111.0, 111.0, 11.0, 2211.0, 1112.0, 11.0, 1122.0]
+2025-07-24 11:08:42,860 - INFO - Preprocessed input: [11222.0, 111.0, 111.0, 11.0, 2211.0, 1112.0, 11.0, 1122.0, 0, 0, 0, 0]
+2025-07-24 11:08:42,896 - INFO - Prediction: label=0, probability=0.43055737018585205
+2025-07-24 11:09:09,964 - INFO - Received input: [0.0, 0, 0, -2.0, 222.0, 0, 0, 224.0, 1, 22.0, 2, 26, 2]
+2025-07-24 11:09:09,987 - INFO - Prediction: label=1, probability=0.6726969480514526
+2025-07-24 14:44:23,791 - INFO - Received input: [111.0, 11.0, 111.0, 11.0, 111.0, 11.0, 111.0, 11.0]
+2025-07-24 14:44:23,793 - INFO - Preprocessed input: [111.0, 11.0, 111.0, 11.0, 111.0, 11.0, 111.0, 11.0, 0, 0, 0, 0]
+2025-07-24 14:44:23,993 - INFO - Prediction: label=0, probability=0.052065540105104446
+2025-07-24 14:44:27,939 - INFO - Received input: [111.0, 11.0, 111.0, 11.0, 111.0, 11.0, 111.0, 11.0]
+2025-07-24 14:44:27,939 - INFO - Preprocessed input: [111.0, 11.0, 111.0, 11.0, 111.0, 11.0, 111.0, 11.0, 0, 0, 0, 0]
+2025-07-24 14:44:27,959 - INFO - Prediction: label=0, probability=0.052065540105104446
+2025-07-24 14:44:28,575 - INFO - Received input: [111.0, 11.0, 111.0, 11.0, 111.0, 11.0, 111.0, 11.0]
+2025-07-24 14:44:28,575 - INFO - Preprocessed input: [111.0, 11.0, 111.0, 11.0, 111.0, 11.0, 111.0, 11.0, 0, 0, 0, 0]
+2025-07-24 14:44:28,646 - INFO - Prediction: label=0, probability=0.052065540105104446
+2025-07-24 14:44:29,031 - INFO - Received input: [111.0, 11.0, 111.0, 11.0, 111.0, 11.0, 111.0, 11.0]
+2025-07-24 14:44:29,032 - INFO - Preprocessed input: [111.0, 11.0, 111.0, 11.0, 111.0, 11.0, 111.0, 11.0, 0, 0, 0, 0]
+2025-07-24 14:44:29,069 - INFO - Prediction: label=0, probability=0.052065540105104446
+2025-07-24 14:44:29,392 - INFO - Received input: [111.0, 11.0, 111.0, 11.0, 111.0, 11.0, 111.0, 11.0]
+2025-07-24 14:44:29,392 - INFO - Preprocessed input: [111.0, 11.0, 111.0, 11.0, 111.0, 11.0, 111.0, 11.0, 0, 0, 0, 0]
+2025-07-24 14:44:29,439 - INFO - Prediction: label=0, probability=0.052065540105104446
+2025-07-24 14:52:34,758 - INFO - Received input: [11.0, 1, 2, 10.0, 11.0, 1, 1, 11.0, 0, 11.0, 0, 1, 3]
+2025-07-24 14:52:34,819 - INFO - Prediction: label=1, probability=0.7524940371513367
+2025-07-24 14:53:32,041 - INFO - Received input: [0.0, 0, 0, 0.0, 0.0, 0, 0, 0.0, 1, 0.0, 0, 0, 0]
+2025-07-24 14:53:32,062 - INFO - Prediction: label=0, probability=0.1012435033917427
+2025-07-24 14:53:48,112 - INFO - Received input: [22.0, 0, 1, 0.0, 22.0, 0, 1, 22.0, 1, 22.0, 0, 22, 3]
+2025-07-24 14:53:48,150 - INFO - Prediction: label=1, probability=0.7571959495544434
+2025-07-24 14:53:53,892 - INFO - Received input: [22.0, 0, 1, 0.0, 22.0, 0, 1, 22.0, 1, 22.0, 0, 22, 3]
+2025-07-24 14:53:53,899 - INFO - Prediction: label=1, probability=0.7571959495544434
+2025-07-24 17:11:51,933 - INFO - Received input: [11.0, 111.0, 111.0, 111.0, 111.0, 111.0, 111.0, 111.0]
+2025-07-24 17:11:51,934 - INFO - Preprocessed input: [11.0, 111.0, 111.0, 111.0, 111.0, 111.0, 111.0, 111.0, 0, 0, 0, 0]
+2025-07-24 17:11:52,117 - INFO - Prediction: label=0, probability=0.43055737018585205
+2025-07-24 17:16:05,123 - INFO - Received input: [22.0, 0, 1, 11.0, 11.0, 1, 1, 11.0, 1, 11.0, 1, 11, 1]
+2025-07-24 17:16:05,163 - INFO - Prediction: label=1, probability=0.818510890007019
+2025-07-24 17:17:37,848 - INFO - Received input: [0.0, 0, 0, 0.0, 0.0, 0, 0, 0.0, 0, 0.0, 0, 0, 0]
+2025-07-24 17:17:37,903 - INFO - Prediction: label=0, probability=0.08723011612892151
+2025-07-24 17:17:51,280 - INFO - Received input: [22.0, 22.0, 222.0, 22.0, 22.0, 22.0, 22.0, 22.0]
+2025-07-24 17:17:51,280 - INFO - Preprocessed input: [22.0, 22.0, 222.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0, 0, 0, 0]
+2025-07-24 17:17:51,303 - INFO - Prediction: label=0, probability=0.052065540105104446
+2025-07-24 17:17:55,544 - INFO - Received input: [22.0, 22.0, 222.0, 22.0, 22.0, 22.0, 22.0, 122.0]
+2025-07-24 17:17:55,544 - INFO - Preprocessed input: [22.0, 22.0, 222.0, 22.0, 22.0, 22.0, 22.0, 122.0, 0, 0, 0, 0]
+2025-07-24 17:17:55,569 - INFO - Prediction: label=0, probability=0.10945276916027069
+2025-07-24 17:17:57,568 - INFO - Received input: [22.0, 22.0, 222.0, 22.0, 22.0, 22.0, 22.0, 12211.0]
+2025-07-24 17:17:57,568 - INFO - Preprocessed input: [22.0, 22.0, 222.0, 22.0, 22.0, 22.0, 22.0, 12211.0, 0, 0, 0, 0]
+2025-07-24 17:17:57,577 - INFO - Prediction: label=0, probability=0.10945276916027069
+2025-07-24 17:17:59,608 - INFO - Received input: [22.0, 22.0, 222.0, 22.0, 22.0, 22.0, 22.0, 1221111.0]
+2025-07-24 17:17:59,608 - INFO - Preprocessed input: [22.0, 22.0, 222.0, 22.0, 22.0, 22.0, 22.0, 1221111.0, 0, 0, 0, 0]
+2025-07-24 17:17:59,634 - INFO - Prediction: label=0, probability=0.10945276916027069
+2025-07-24 17:18:01,808 - INFO - Received input: [22.0, 22.0, 222.0, 22.0, 22.0, 2211.0, 22.0, 1221111.0]
+2025-07-24 17:18:01,808 - INFO - Preprocessed input: [22.0, 22.0, 222.0, 22.0, 22.0, 2211.0, 22.0, 1221111.0, 0, 0, 0, 0]
+2025-07-24 17:18:01,815 - INFO - Prediction: label=0, probability=0.23988671600818634
+2025-07-24 17:18:06,392 - INFO - Received input: [22.0, 22.0, 222.0, 22111.0, 22.0, 2211.0, 22.0, 1221111.0]
+2025-07-24 17:18:06,392 - INFO - Preprocessed input: [22.0, 22.0, 222.0, 22111.0, 22.0, 2211.0, 22.0, 1221111.0, 0, 0, 0, 0]
+2025-07-24 17:18:06,411 - INFO - Prediction: label=0, probability=0.23988671600818634
+2025-07-24 17:18:07,016 - INFO - Received input: [22.0, 22.0, 222.0, 22111.0, 22.0, 2211.0, 22.0, 1221111.0]
+2025-07-24 17:18:07,016 - INFO - Preprocessed input: [22.0, 22.0, 222.0, 22111.0, 22.0, 2211.0, 22.0, 1221111.0, 0, 0, 0, 0]
+2025-07-24 17:18:07,041 - INFO - Prediction: label=0, probability=0.23988671600818634
+2025-07-24 17:18:08,706 - INFO - Received input: [22.0, 22.0, 222.0, 22111.0, 22.0, 2211.0, 22111.0, 1221111.0]
+2025-07-24 17:18:08,706 - INFO - Preprocessed input: [22.0, 22.0, 222.0, 22111.0, 22.0, 2211.0, 22111.0, 1221111.0, 0, 0, 0, 0]
+2025-07-24 17:18:08,734 - INFO - Prediction: label=0, probability=0.23988671600818634
+2025-07-24 17:18:11,400 - INFO - Received input: [22.0, 22.0, 222.0, 22111.0, 22111.0, 2211.0, 22111.0, 1221111.0]
+2025-07-24 17:18:11,401 - INFO - Preprocessed input: [22.0, 22.0, 222.0, 22111.0, 22111.0, 2211.0, 22111.0, 1221111.0, 0, 0, 0, 0]
+2025-07-24 17:18:11,431 - INFO - Prediction: label=0, probability=0.23988671600818634
+2025-07-24 17:18:12,001 - INFO - Received input: [22.0, 22.0, 222.0, 22111.0, 22111.0, 2211.0, 22111.0, 1221111.0]
+2025-07-24 17:18:12,001 - INFO - Preprocessed input: [22.0, 22.0, 222.0, 22111.0, 22111.0, 2211.0, 22111.0, 1221111.0, 0, 0, 0, 0]
+2025-07-24 17:18:12,028 - INFO - Prediction: label=0, probability=0.23988671600818634
+2025-07-24 17:18:14,289 - INFO - Received input: [22.0, 22.0, 222111.0, 22111.0, 22111.0, 2211.0, 22111.0, 1221111.0]
+2025-07-24 17:18:14,289 - INFO - Preprocessed input: [22.0, 22.0, 222111.0, 22111.0, 22111.0, 2211.0, 22111.0, 1221111.0, 0, 0, 0, 0]
+2025-07-24 17:18:14,348 - INFO - Prediction: label=0, probability=0.23988671600818634
+2025-07-24 17:18:17,512 - INFO - Received input: [22111.0, 22.0, 222111.0, 22111.0, 22111.0, 2211.0, 22111.0, 1221111.0]
+2025-07-24 17:18:17,512 - INFO - Preprocessed input: [22111.0, 22.0, 222111.0, 22111.0, 22111.0, 2211.0, 22111.0, 1221111.0, 0, 0, 0, 0]
+2025-07-24 17:18:17,540 - INFO - Prediction: label=0, probability=0.23988671600818634
+2025-07-24 17:18:20,496 - INFO - Received input: [22111.0, 22111.0, 222111.0, 22111.0, 22111.0, 2211.0, 22111.0, 1221111.0]
+2025-07-24 17:18:20,497 - INFO - Preprocessed input: [22111.0, 22111.0, 222111.0, 22111.0, 22111.0, 2211.0, 22111.0, 1221111.0, 0, 0, 0, 0]
+2025-07-24 17:18:20,502 - INFO - Prediction: label=1, probability=0.758060097694397
+2025-07-24 18:12:53,087 - INFO - Received input: [11.0, 111.0, 11.0, 111.0, 111.0, 11.0, 111.0, 111.0]
+2025-07-24 18:12:53,087 - INFO - Preprocessed input: [11.0, 111.0, 11.0, 111.0, 111.0, 11.0, 111.0, 111.0, 0, 0, 0, 0]
+2025-07-24 18:12:53,124 - INFO - Prediction: label=0, probability=0.25799089670181274
+2025-07-24 18:13:19,831 - INFO - Received input: [11.0, 1, 0, 11.0, 11.0, 0, 1, 11.0, 1, 11.0, 1, 11, 2]
+2025-07-24 18:13:19,860 - INFO - Prediction: label=1, probability=0.8752959370613098
+2025-07-24 18:33:37,435 - INFO - Received input: [33.0, 1, 2, 99.0, 99.0, 1, 2, 88.0, 1, 10.0, 1, 15, 2]
+2025-07-24 18:33:37,467 - INFO - Prediction: label=1, probability=0.8752959370613098
+2025-07-25 10:37:37,144 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0]
+2025-07-25 10:37:37,145 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-25 10:37:37,218 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-25 11:03:06,257 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0]
+2025-07-25 11:03:06,258 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-25 11:03:06,309 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-25 11:23:27,148 - INFO - Received input: [11.0, 111.0, 111.0, 111.0, 11.0, 111.0, 11.0, 10.0]
+2025-07-25 11:23:27,149 - INFO - Preprocessed input: [11.0, 111.0, 111.0, 111.0, 11.0, 111.0, 11.0, 10.0, 0, 0, 0, 0]
+2025-07-25 11:23:27,257 - INFO - Prediction: label=0, probability=0.18175607919692993
+2025-07-25 18:33:13,018 - INFO - Received input: [111.0, 11.0, 11.0, 11.0, 11.0, 11.0, 111.0, 11.0]
+2025-07-25 18:33:13,019 - INFO - Preprocessed input: [111.0, 11.0, 11.0, 11.0, 11.0, 11.0, 111.0, 11.0, 0, 0, 0, 0]
+2025-07-25 18:33:13,072 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-25 18:33:42,761 - INFO - Received input: [11.0, 0, 1, 11.0, 11.0, 1, 2, 11.0, 1, 11.0, 1, 11, 1]
+2025-07-25 18:33:42,785 - INFO - Prediction: label=1, probability=0.818510890007019
+2025-07-25 18:36:58,862 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0]
+2025-07-25 18:36:58,869 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-25 18:36:58,886 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-25 18:38:15,888 - INFO - Received input: [11.0, 1, 0, 11.0, 11.0, 0, 0, 11.0, 1, 111.0, 0, 11, 2]
+2025-07-25 18:38:15,917 - INFO - Prediction: label=1, probability=0.7958283424377441
+2025-07-25 20:10:52,138 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-25 20:11:31,579 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-25 20:11:38,248 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-25 20:12:13,400 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-25 20:12:37,001 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 111.0]
+2025-07-25 20:12:37,001 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 111.0, 0, 0, 0, 0]
+2025-07-25 20:12:37,074 - ERROR - Prediction failed: Float types are not supported. Use Decimal types instead.
+2025-07-25 20:12:39,479 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 111.0]
+2025-07-25 20:12:39,479 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 111.0, 0, 0, 0, 0]
+2025-07-25 20:12:39,507 - ERROR - Prediction failed: Float types are not supported. Use Decimal types instead.
+2025-07-25 20:13:00,247 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-25 20:13:00,681 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 111.0]
+2025-07-25 20:13:00,681 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 111.0, 0, 0, 0, 0]
+2025-07-25 20:13:00,736 - INFO - Prediction: label=0, probability=0.12697158753871918
+2025-07-25 20:15:10,158 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-25 20:15:10,615 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 111.0]
+2025-07-25 20:15:10,615 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 111.0, 0, 0, 0, 0]
+2025-07-25 20:15:10,652 - INFO - Prediction: label=0, probability=0.12697158753871918
+2025-07-25 20:15:10,652 - ERROR - DynamoDB logging failed: name 'datetime' is not defined
+2025-07-25 20:15:30,919 - INFO - Received input: [11.0, 1111.0, 11.0, 11.0, 11.0, 11.0, 11.0, 111.0]
+2025-07-25 20:15:30,919 - INFO - Preprocessed input: [11.0, 1111.0, 11.0, 11.0, 11.0, 11.0, 11.0, 111.0, 0, 0, 0, 0]
+2025-07-25 20:15:30,940 - INFO - Prediction: label=1, probability=0.6977241635322571
+2025-07-25 20:15:30,940 - ERROR - DynamoDB logging failed: name 'datetime' is not defined
+2025-07-25 20:20:50,257 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-25 20:20:58,454 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-25 20:24:49,496 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-25 20:25:28,149 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-25 20:26:29,873 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-25 20:29:20,382 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-25 20:29:49,434 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-25 20:30:08,506 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-25 20:31:58,873 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-25 20:32:07,194 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0]
+2025-07-25 20:32:07,195 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-25 20:32:07,252 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-25 20:32:07,254 - ERROR - DynamoDB logging failed: name 'datetime' is not defined
+2025-07-25 20:32:32,643 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 1.0, 11.0, 11.0, 11.0]
+2025-07-25 20:32:32,644 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 1.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-25 20:32:32,693 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-25 20:32:32,699 - ERROR - DynamoDB logging failed: name 'datetime' is not defined
+2025-07-25 20:36:27,058 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-25 20:36:32,712 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-25 20:41:37,543 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 1.0, 11.0, 11.0, 11.0]
+2025-07-25 20:41:37,543 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 1.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-25 20:41:37,589 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-25 20:41:37,589 - ERROR - Prediction failed: log_prediction_to_dynamodb() got an unexpected keyword argument 'model_type'
+2025-07-25 20:41:45,187 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 1.0, 11.0, 11.0, 11.0]
+2025-07-25 20:41:45,188 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 1.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-25 20:41:45,280 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-25 20:41:45,280 - ERROR - Prediction failed: log_prediction_to_dynamodb() got an unexpected keyword argument 'model_type'
+2025-07-25 20:41:46,484 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 1.0, 11.0, 11.0, 11.0]
+2025-07-25 20:41:46,484 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 1.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-25 20:41:46,513 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-25 20:41:46,513 - ERROR - Prediction failed: log_prediction_to_dynamodb() got an unexpected keyword argument 'model_type'
+2025-07-25 20:44:18,043 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 1.0, 11.0, 11.0, 11.0]
+2025-07-25 20:44:18,043 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 1.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-25 20:44:18,112 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-25 20:44:18,119 - ERROR - Prediction failed: Float types are not supported. Use Decimal types instead.
+2025-07-25 20:44:22,686 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 1.0, 11.0, 11.0, 11.0]
+2025-07-25 20:44:22,687 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 1.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-25 20:44:22,720 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-25 20:44:22,722 - ERROR - Prediction failed: Float types are not supported. Use Decimal types instead.
+2025-07-25 20:48:24,334 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 1.0, 11.0, 11.0, 11.0]
+2025-07-25 20:48:24,335 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 1.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-25 20:48:24,390 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-25 20:48:24,395 - ERROR - Prediction failed: Float types are not supported. Use Decimal types instead.
+2025-07-25 20:49:26,362 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 1.0, 11.0, 11.0, 11.0]
+2025-07-25 20:49:26,363 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 1.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-25 20:49:26,407 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-25 20:49:26,409 - ERROR - Prediction failed: Float types are not supported. Use Decimal types instead.
+2025-07-25 20:49:32,426 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 1.0, 11.0, 11.0, 11.0]
+2025-07-25 20:49:32,426 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 1.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-25 20:49:32,472 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-25 20:49:32,480 - ERROR - Prediction failed: Float types are not supported. Use Decimal types instead.
+2025-07-25 20:55:09,743 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0]
+2025-07-25 20:55:09,744 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-25 20:55:09,827 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-25 20:55:09,832 - ERROR - Prediction failed: Float types are not supported. Use Decimal types instead.
+2025-07-25 20:55:42,813 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0]
+2025-07-25 20:55:42,813 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-25 20:55:42,881 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-25 21:02:22,872 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0]
+2025-07-25 21:02:22,872 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-25 21:02:22,943 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-25 21:02:22,947 - ERROR - DynamoDB logging failed: Float types are not supported. Use Decimal types instead.
+2025-07-25 21:02:37,528 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0]
+2025-07-25 21:02:37,528 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-25 21:02:37,595 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-25 21:02:37,597 - ERROR - DynamoDB logging failed: Float types are not supported. Use Decimal types instead.
+2025-07-25 21:02:43,007 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 11.0, 8811.0, 11.0, 11.0]
+2025-07-25 21:02:43,007 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 11.0, 8811.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-25 21:02:43,031 - INFO - Prediction: label=0, probability=0.14302338659763336
+2025-07-25 21:02:43,033 - ERROR - DynamoDB logging failed: Float types are not supported. Use Decimal types instead.
+2025-07-25 21:06:28,878 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 11.0, 8811.0, 11.0, 11.0]
+2025-07-25 21:06:28,878 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 11.0, 8811.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-25 21:06:28,952 - INFO - Prediction: label=0, probability=0.14302338659763336
+2025-07-25 21:06:28,952 - INFO - Attempting to log prediction to DynamoDB
+2025-07-25 21:06:28,965 - ERROR - Unexpected error in DynamoDB logging: Float types are not supported. Use Decimal types instead.
+2025-07-25 21:53:35,711 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0]
+2025-07-25 21:53:35,711 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-25 21:53:35,783 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-25 21:53:35,783 - INFO - Attempting to log prediction to DynamoDB
+2025-07-25 21:53:35,794 - ERROR - Unexpected error in DynamoDB logging: Float types are not supported. Use Decimal types instead.
+2025-07-25 21:53:48,169 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 11.0, 1111.0, 11.0, 1111.0]
+2025-07-25 21:53:48,169 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 11.0, 1111.0, 11.0, 1111.0, 0, 0, 0, 0]
+2025-07-25 21:53:48,193 - INFO - Prediction: label=0, probability=0.2719082832336426
+2025-07-25 21:53:48,199 - INFO - Attempting to log prediction to DynamoDB
+2025-07-25 21:53:48,203 - ERROR - Unexpected error in DynamoDB logging: Float types are not supported. Use Decimal types instead.
+2025-07-25 22:49:07,475 - INFO - Received input: [-1.0, 111.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0]
+2025-07-25 22:49:07,480 - INFO - Preprocessed input: [-1.0, 111.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-25 22:49:07,626 - INFO - Prediction: label=0, probability=0.07918507605791092
+2025-07-25 22:49:07,627 - INFO - Attempting to log prediction to DynamoDB
+2025-07-25 22:49:07,701 - ERROR - Unexpected error in DynamoDB logging: Float types are not supported. Use Decimal types instead.
+2025-07-25 22:53:09,344 - INFO - Received input: [12.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0]
+2025-07-25 22:53:09,344 - INFO - Preprocessed input: [12.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-25 22:53:09,349 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-25 22:53:09,349 - INFO - Attempting to log prediction to DynamoDB
+2025-07-25 22:53:09,351 - ERROR - Unexpected error in DynamoDB logging: Float types are not supported. Use Decimal types instead.
+2025-07-25 22:57:19,396 - INFO - Received input: [0.0, 0, 0, 0.0, 0.0, 0, 0, 0.0, 0, 0.0, 0, 0, 0]
+2025-07-25 22:57:19,489 - INFO - Prediction: label=0, probability=0.08723011612892151
+2025-07-25 23:00:24,554 - INFO - Received input: [33.0, 0, 2, 33.0, 33.0, 0, 1, 33.0, 0, 33.0, 1, 31, 1]
+2025-07-25 23:00:24,599 - INFO - Prediction: label=1, probability=0.7578727602958679
