@@ -229,3 +229,153 @@
 2025-07-25 22:57:19,489 - INFO - Prediction: label=0, probability=0.08723011612892151
 2025-07-25 23:00:24,554 - INFO - Received input: [33.0, 0, 2, 33.0, 33.0, 0, 1, 33.0, 0, 33.0, 1, 31, 1]
 2025-07-25 23:00:24,599 - INFO - Prediction: label=1, probability=0.7578727602958679
+2025-07-26 06:58:20,720 - INFO - Received input: [1111.0, 11.0, 11.0, 111.0, 111.0, 11.0, 11.0, 11.0]
+2025-07-26 06:58:20,722 - INFO - Preprocessed input: [1111.0, 11.0, 11.0, 111.0, 111.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-26 06:58:20,772 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-26 06:58:20,773 - INFO - Attempting to log prediction to DynamoDB
+2025-07-26 06:58:20,777 - ERROR - Unexpected error in DynamoDB logging: Float types are not supported. Use Decimal types instead.
+2025-07-26 06:58:23,477 - INFO - Received input: [1111.0, 11.0, 11.0, 111.0, 111.0, 11.0, 11.0, 11.0]
+2025-07-26 06:58:23,477 - INFO - Preprocessed input: [1111.0, 11.0, 11.0, 111.0, 111.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-26 06:58:23,477 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-26 06:58:23,477 - INFO - Attempting to log prediction to DynamoDB
+2025-07-26 06:58:23,478 - ERROR - Unexpected error in DynamoDB logging: Float types are not supported. Use Decimal types instead.
+2025-07-26 07:01:51,101 - INFO - Received input: [11.0, 1.0, 11.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+2025-07-26 07:01:51,109 - INFO - Preprocessed input: [11.0, 1.0, 11.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0, 0, 0, 0]
+2025-07-26 07:01:51,138 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-26 07:01:51,138 - INFO - Attempting to log prediction to DynamoDB
+2025-07-26 07:01:51,139 - ERROR - Unexpected error in DynamoDB logging: Float types are not supported. Use Decimal types instead.
+2025-07-26 07:13:08,441 - INFO - Received input: [11.0, 11.0, 11.0, 111.0, 11.0, 11.0, 11.0, 11.0]
+2025-07-26 07:13:08,441 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 111.0, 11.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-26 07:13:08,471 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-26 07:13:08,471 - INFO - Attempting to log prediction to DynamoDB
+2025-07-26 07:13:08,472 - ERROR - Unexpected error in DynamoDB logging: Float types are not supported. Use Decimal types instead.
+2025-07-26 07:16:45,280 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0]
+2025-07-26 07:16:45,280 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-26 07:16:45,303 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-26 07:16:45,303 - INFO - Attempting to log prediction to DynamoDB
+2025-07-26 07:16:45,316 - ERROR - Unexpected error in DynamoDB logging: Float types are not supported. Use Decimal types instead.
+2025-07-26 07:17:01,986 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0]
+2025-07-26 07:17:01,986 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-26 07:17:02,014 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-26 07:17:02,014 - INFO - Attempting to log prediction to DynamoDB
+2025-07-26 07:17:02,015 - ERROR - Unexpected error in DynamoDB logging: Float types are not supported. Use Decimal types instead.
+2025-07-26 07:45:12,024 - INFO - Received input: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+2025-07-26 07:45:12,026 - INFO - Preprocessed input: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0, 0, 0, 0]
+2025-07-26 07:45:12,067 - INFO - Prediction: label=0, probability=0.05187932401895523
+2025-07-26 07:45:12,068 - INFO - Attempting to log prediction to DynamoDB
+2025-07-26 07:45:12,169 - ERROR - Unexpected error in DynamoDB logging: Float types are not supported. Use Decimal types instead.
+2025-07-26 07:57:43,866 - INFO - Received input: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+2025-07-26 07:57:43,868 - INFO - Preprocessed input: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0, 0, 0, 0]
+2025-07-26 07:57:43,896 - INFO - Prediction: label=0, probability=0.05187932401895523
+2025-07-26 07:57:43,896 - INFO - Attempting to log prediction to DynamoDB
+2025-07-26 07:57:43,900 - ERROR - Unexpected error in DynamoDB logging: Float types are not supported. Use Decimal types instead.
+2025-07-26 08:14:28,537 - INFO - Received input: [11.0, 1111.0, 1.0, 11.0, 1.0, 1.0, 1.0, 11.0]
+2025-07-26 08:14:28,537 - INFO - Preprocessed input: [11.0, 1111.0, 1.0, 11.0, 1.0, 1.0, 1.0, 11.0, 0, 0, 0, 0]
+2025-07-26 08:14:28,570 - INFO - Prediction: label=0, probability=0.28482183814048767
+2025-07-26 08:14:28,571 - INFO - Attempting to log prediction to DynamoDB
+2025-07-26 08:14:28,579 - ERROR - Unexpected error in DynamoDB logging: Float types are not supported. Use Decimal types instead.
+2025-07-26 08:42:53,450 - INFO - Received input: [11.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+2025-07-26 08:42:53,450 - INFO - Preprocessed input: [11.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0, 0, 0, 0]
+2025-07-26 08:42:53,509 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-26 08:42:53,510 - INFO - Attempting to log prediction to DynamoDB
+2025-07-26 08:42:53,520 - ERROR - Unexpected error in DynamoDB logging: Float types are not supported. Use Decimal types instead.
+2025-07-26 08:48:12,116 - INFO - Received input: [11.0, 111.0, 11.0, 126.0, 11.0, 111.0, 11.0, 1111.0]
+2025-07-26 08:48:12,116 - INFO - Preprocessed input: [11.0, 111.0, 11.0, 126.0, 11.0, 111.0, 11.0, 1111.0, 0, 0, 0, 0]
+2025-07-26 08:48:12,178 - INFO - Prediction: label=1, probability=0.5225569009780884
+2025-07-26 08:48:12,178 - INFO - Attempting to log prediction to DynamoDB
+2025-07-26 08:48:12,181 - ERROR - Unexpected error in DynamoDB logging: Float types are not supported. Use Decimal types instead.
+2025-07-26 09:01:36,370 - INFO - Received input: [11.0, 1, 2, 111.0, 11.0, 1, 0, 11.0, 0, 111.0, 1, 111, 2]
+2025-07-26 09:01:36,416 - INFO - Prediction: label=1, probability=0.7964264750480652
+2025-07-26 09:02:55,985 - INFO - Received input: [11.0, 11.0, 11.0, 111.0, 11.0, 11.0, 11.0, 11.0]
+2025-07-26 09:02:55,985 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 111.0, 11.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-26 09:02:56,011 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-26 09:02:56,011 - INFO - Attempting to log prediction to DynamoDB
+2025-07-26 09:02:56,023 - ERROR - Unexpected error in DynamoDB logging: Float types are not supported. Use Decimal types instead.
+2025-07-26 11:08:33,255 - INFO - Received input: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0]
+2025-07-26 11:08:33,256 - INFO - Preprocessed input: [1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0, 0, 0, 0]
+2025-07-26 11:08:33,307 - INFO - Prediction: label=0, probability=0.05187932401895523
+2025-07-26 11:08:33,307 - INFO - Attempting to log prediction to DynamoDB
+2025-07-26 11:08:33,317 - ERROR - Unexpected error in DynamoDB logging: Float types are not supported. Use Decimal types instead.
+2025-07-26 11:23:36,559 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-26 11:23:45,498 - INFO - Received input: [11.0, 1.0, 11.0, 1.0, 11.0, 11.0, 1.0, 11.0]
+2025-07-26 11:23:45,539 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-26 11:23:46,337 - ERROR - ❌ Failed to log to DynamoDB: An error occurred (ResourceNotFoundException) when calling the PutItem operation: Requested resource not found
+2025-07-26 11:24:43,990 - INFO - Received input: [11.0, 1.0, 11.0, 1.0, 11.0, 11.0, 1.0, 11.0]
+2025-07-26 11:24:44,003 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-26 11:24:44,238 - ERROR - ❌ Failed to log to DynamoDB: An error occurred (ResourceNotFoundException) when calling the PutItem operation: Requested resource not found
+2025-07-26 11:28:53,138 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-26 11:29:30,648 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-26 11:32:05,321 - INFO - Diabet input: [11.0, 1.0, 11.0, 1.0, 11.0, 11.0, 1.0, 11.0]
+2025-07-26 11:32:05,362 - INFO - Diabet prediction: label=0, prob=0.06102852523326874
+2025-07-26 11:32:05,362 - ERROR - DynamoDB log failed: No module named 'db_logger'
+2025-07-26 11:42:53,365 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-26 11:42:53,912 - INFO - Received input: [13.0, 1.0, 13.0, 11.0, 1.0, 1.0, 1.0, 8.0]
+2025-07-26 11:42:53,912 - INFO - Preprocessed input: [13.0, 1.0, 13.0, 11.0, 1.0, 1.0, 1.0, 8.0, 0, 0, 0, 0]
+2025-07-26 11:42:53,941 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-26 11:43:24,409 - INFO - Received input: [11.0, 1.0, 1.0, -20.0, 1.0, -9.0, -11.0, 11.0]
+2025-07-26 11:43:24,409 - INFO - Preprocessed input: [11.0, 1.0, 1.0, -20.0, 1.0, -9.0, -11.0, 11.0, 0, 0, 0, 0]
+2025-07-26 11:43:24,434 - INFO - Prediction: label=0, probability=0.05236414447426796
+2025-07-26 11:43:52,171 - INFO - Received input: [11.0, 1.0, 1.0, -20.0, 1.0, -9.0, -11.0, 11.0]
+2025-07-26 11:43:52,171 - INFO - Preprocessed input: [11.0, 1.0, 1.0, -20.0, 1.0, -9.0, -11.0, 11.0, 0, 0, 0, 0]
+2025-07-26 11:43:52,193 - INFO - Prediction: label=0, probability=0.05236414447426796
+2025-07-26 11:47:04,946 - INFO - Received input: [11.0, 1.0, 1.0, -20.0, 1.0, -9.0, -11.0, 110009.0]
+2025-07-26 11:47:04,946 - INFO - Preprocessed input: [11.0, 1.0, 1.0, -20.0, 1.0, -9.0, -11.0, 110009.0, 0, 0, 0, 0]
+2025-07-26 11:47:04,976 - INFO - Prediction: label=0, probability=0.08588951826095581
+2025-07-26 11:47:27,315 - INFO - Received input: [11.0, 1.0, 1.0, -20.0, 1.0, -9.0, -11.0, 110009.0]
+2025-07-26 11:47:27,324 - INFO - Preprocessed input: [11.0, 1.0, 1.0, -20.0, 1.0, -9.0, -11.0, 110009.0, 0, 0, 0, 0]
+2025-07-26 11:47:27,351 - INFO - Prediction: label=0, probability=0.08588951826095581
+2025-07-26 11:48:10,042 - INFO - Received input: [11.0, 1.0, 1.0, -20.0, 1.0, -9.0, -11.0, 110009.0]
+2025-07-26 11:48:10,042 - INFO - Preprocessed input: [11.0, 1.0, 1.0, -20.0, 1.0, -9.0, -11.0, 110009.0, 0, 0, 0, 0]
+2025-07-26 11:48:10,070 - INFO - Prediction: label=0, probability=0.08588951826095581
+2025-07-26 12:04:42,154 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-26 12:04:42,812 - INFO - Received input: [1.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0]
+2025-07-26 12:04:42,813 - INFO - Preprocessed input: [1.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-26 12:04:42,877 - INFO - Prediction: label=0, probability=0.05187932401895523
+2025-07-26 12:04:47,051 - INFO - Received input: [1.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0]
+2025-07-26 12:04:47,051 - INFO - Preprocessed input: [1.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-26 12:04:47,089 - INFO - Prediction: label=0, probability=0.05187932401895523
+2025-07-26 12:04:55,744 - INFO - Received input: [1.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0]
+2025-07-26 12:04:55,744 - INFO - Preprocessed input: [1.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 11.0, 0, 0, 0, 0]
+2025-07-26 12:04:55,790 - INFO - Prediction: label=0, probability=0.05187932401895523
+2025-07-26 12:09:43,206 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-26 12:09:43,699 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 11.0, 10.0, 9.0, 11.0]
+2025-07-26 12:09:43,700 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 11.0, 10.0, 9.0, 11.0, 0, 0, 0, 0]
+2025-07-26 12:09:43,753 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-26 12:09:50,794 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 1.0, 11.0, 11.0, 9.0]
+2025-07-26 12:09:50,794 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 1.0, 11.0, 11.0, 9.0, 0, 0, 0, 0]
+2025-07-26 12:09:50,811 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-26 12:11:02,403 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-26 12:11:02,644 - INFO - Received input: [11.0, 11.0, 11.0, 11.0, 1.0, 11.0, 11.0, 9.0]
+2025-07-26 12:11:02,644 - INFO - Preprocessed input: [11.0, 11.0, 11.0, 11.0, 1.0, 11.0, 11.0, 9.0, 0, 0, 0, 0]
+2025-07-26 12:11:02,711 - INFO - Prediction: label=0, probability=0.06102852523326874
+2025-07-26 12:11:14,554 - INFO - Received input: [1.0, 1.0, 1.0, -1.0, 1.0, 0.0, -1.0, 1.0]
+2025-07-26 12:11:14,554 - INFO - Preprocessed input: [1.0, 1.0, 1.0, -1.0, 1.0, 0.0, -1.0, 1.0, 0, 0, 0, 0]
+2025-07-26 12:11:14,590 - INFO - Prediction: label=0, probability=0.04445236921310425
+2025-07-26 12:11:22,943 - INFO - Received input: [1.0, 1.0, 1.0, -1.0, 1.0, 0.0, -1.0, 1.0]
+2025-07-26 12:11:22,944 - INFO - Preprocessed input: [1.0, 1.0, 1.0, -1.0, 1.0, 0.0, -1.0, 1.0, 0, 0, 0, 0]
+2025-07-26 12:11:22,966 - INFO - Prediction: label=0, probability=0.04445236921310425
+2025-07-26 12:12:59,577 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-26 12:13:53,497 - ERROR - Cancer prediction error: name 'image_transform' is not defined
+2025-07-26 12:14:29,621 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-26 12:14:34,440 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-26 12:14:34,986 - ERROR - Cancer prediction error: name 'image_transform' is not defined
+2025-07-26 12:14:43,808 - ERROR - Cancer prediction error: name 'image_transform' is not defined
+2025-07-26 12:14:44,512 - ERROR - Cancer prediction error: name 'image_transform' is not defined
+2025-07-26 12:14:59,934 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-26 12:20:03,732 - INFO - Received input: [1.0, 21.0, 1.0, 11.0, 1.0, 1.0, -1.0, 11.0]
+2025-07-26 12:20:03,733 - INFO - Preprocessed input: [1.0, 21.0, 1.0, 11.0, 1.0, 1.0, -1.0, 11.0, 0, 0, 0, 0]
+2025-07-26 12:20:03,777 - INFO - Prediction: label=0, probability=0.04445236921310425
+2025-07-26 12:20:03,777 - ERROR - DynamoDB logging failed: name 'log_diabetes_prediction' is not defined
+2025-07-26 12:20:07,129 - INFO - Received input: [1.0, 21.0, 1.0, 11.0, 1.0, 1.0, -1.0, 11.0]
+2025-07-26 12:20:07,130 - INFO - Preprocessed input: [1.0, 21.0, 1.0, 11.0, 1.0, 1.0, -1.0, 11.0, 0, 0, 0, 0]
+2025-07-26 12:20:07,132 - INFO - Prediction: label=0, probability=0.04445236921310425
+2025-07-26 12:20:07,133 - ERROR - DynamoDB logging failed: name 'log_diabetes_prediction' is not defined
+2025-07-26 12:41:41,200 - INFO - Received input: [1.0, 0, 1, 2.0, 1.0, 0, 0, 3.0, 0, 3.0, 1, 55, 2]
+2025-07-26 12:41:41,257 - INFO - Prediction: label=1, probability=0.7154046893119812
+2025-07-26 12:41:57,484 - INFO - Received input: [1.0, 1, 1, 1.0, 11.0, 1, 0, -2.0, 0, 1.0, 2, 0, 2]
+2025-07-26 12:41:57,520 - INFO - Prediction: label=0, probability=0.437956839799881
+2025-07-26 12:42:42,872 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-26 12:42:43,380 - INFO - Received input: [1.0, 1, 1, 1.0, 11.0, 1, 0, -2.0, 0, 1.0, 2, 0, 2]
+2025-07-26 12:42:43,426 - INFO - Prediction: label=0, probability=0.437956839799881
+2025-07-26 12:42:52,344 - INFO - Received input: [1.0, 1, 1, 1.0, 11.0, 1, 0, -2.0, 0, 1.0, 2, 0, 2]
+2025-07-26 12:42:52,359 - INFO - Prediction: label=0, probability=0.437956839799881
